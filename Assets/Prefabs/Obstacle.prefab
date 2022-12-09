@@ -112,3 +112,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rayLenght: 10
+  _playerScore: {fileID: 0}
+  _cooldownTimeInSeconds: 1
